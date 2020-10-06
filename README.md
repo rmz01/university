@@ -1,2 +1,2 @@
 # university
-Contains all my degree work
+Contains all my work
